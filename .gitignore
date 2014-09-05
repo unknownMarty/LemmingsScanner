@@ -18,3 +18,4 @@ xcuserdata
 CVS
 
 bin/*.app
+bin/emptyExampleDebug.app/
